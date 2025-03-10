@@ -23,7 +23,7 @@ E-commerce web application built with React and Tailwind CSS. This project demon
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/react-ecommerce.git
+git clone https://github.com/mehmetguzel13/react-ecommerce.git
 ```
 
 2. Navigate to the project directory:
