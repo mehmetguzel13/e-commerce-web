@@ -40,6 +40,10 @@ npm install
 ```bash
 npm start
 ```
+![image](image-1.png)
+![image-2](image-2.png)
+![image-3](image-3.png)
+
 
 ## Key Components
 
