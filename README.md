@@ -17,8 +17,8 @@ E-commerce web application built with React and Tailwind CSS. This project demon
 - **API Integration:** Product data fetched from **Fake Store API**
 
 ## Technologies Used
-- React 18
-- React Router v6
+- React.JS
+- React Router
 - Tailwind CSS
 - Context API for state management
 - Fake Store API
