@@ -7,9 +7,9 @@ E-commerce web application built with React and Tailwind CSS. This project demon
 - **Product Listing:** Display products with filtering and sorting options
 - **Shopping Cart:** Full shopping cart functionality with quantity management
 - **Product Details:** Detailed product views with image and description
-- **Responsive Design:** Mobile-first approach using Tailwind CSS
+- **Responsive Design:** Mobile-first approach using **Tailwind CSS**
 - **Interactive UI:** Smooth animations and user-friendly alerts
-- **API Integration:** Product data fetched from Fake Store API
+- **API Integration:** Product data fetched from **Fake Store API**
 
 ## 🛠️ Technologies Used
 - React 18
@@ -67,7 +67,7 @@ npm start
 - Back navigation
 - Product image and description
 
-## 🔧 Configuration
+## Configuration
 
 The project uses the following configuration files:
 
@@ -75,7 +75,7 @@ The project uses the following configuration files:
 - `postcss.config.js`: PostCSS configuration
 - `package.json`: Project dependencies and scripts
 
-## 🌟 Future Improvements
+## Future Improvements
 
 - [ ] User authentication
 - [ ] Wishlist functionality
@@ -85,13 +85,13 @@ The project uses the following configuration files:
 - [ ] Payment integration
 - [ ] Admin dashboard
 
-## 📱 Responsive Design
+## Responsive Design
 
 The application is fully responsive and works on:
 - Desktop (1024px and above)
 - Tablet (768px to 1023px)
 - Mobile (below 768px)
 
-## 📝 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
