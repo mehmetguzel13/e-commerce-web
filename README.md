@@ -11,7 +11,7 @@ E-commerce web application built with React and Tailwind CSS. This project demon
 - **Interactive UI:** Smooth animations and user-friendly alerts
 - **API Integration:** Product data fetched from **Fake Store API**
 
-## 🛠️ Technologies Used
+## Technologies Used
 - React 18
 - React Router v6
 - Tailwind CSS
@@ -19,7 +19,7 @@ E-commerce web application built with React and Tailwind CSS. This project demon
 - Fake Store API
 - React Icons
 
-## 📦 Installation
+## Installation
 
 1. Clone the repository:
 ```bash
@@ -41,7 +41,7 @@ npm install
 npm start
 ```
 
-## 💡 Key Components
+## Key Components
 
 ### ProductList
 - Displays all products in a grid layout
