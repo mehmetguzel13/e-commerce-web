@@ -7,7 +7,7 @@ E-commerce web application built with React and Tailwind CSS. This project demon
 ![image-2](image-2.png)
 
 
-## 🚀 Features
+## Features
 
 - **Product Listing:** Display products with filtering and sorting options
 - **Shopping Cart:** Full shopping cart functionality with quantity management
@@ -45,8 +45,6 @@ npm install
 ```bash
 npm start
 ```
-
-
 
 ## Key Components
 
