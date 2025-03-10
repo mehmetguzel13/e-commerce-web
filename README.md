@@ -2,6 +2,11 @@
 
 E-commerce web application built with React and Tailwind CSS. This project demonstrates fundamental React concepts and modern web development practices.
 
+![image-3](image-3.png)
+![image](image-1.png)
+![image-2](image-2.png)
+
+
 ## 🚀 Features
 
 - **Product Listing:** Display products with filtering and sorting options
@@ -40,9 +45,6 @@ npm install
 ```bash
 npm start
 ```
-![image-3](image-3.png)
-![image](image-1.png)
-![image-2](image-2.png)
 
 
 
